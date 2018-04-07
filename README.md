@@ -1,2 +1,2 @@
-# AndroidActivity6
-Activity 6 - Handling buttons and other clickable widgets 
+# Widgets
+Practicar el manejo de widgets básicos
